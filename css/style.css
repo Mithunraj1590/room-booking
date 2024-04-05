@@ -3287,6 +3287,28 @@ figure.vimeo a img, figure.youtube a img {
 	}
 }
 
+.book-nav {
+	border: none;
+	padding: 20px 0;
+	margin-bottom: 20px;
+}
+
+.book-nav li{
+	margin-right: 30px;
+}
+
+.book-nav li a{
+   color: #fff;
+   font-size: 20px;
+   padding-bottom: 5px;
+}
+.book-nav li a:hover{
+	border: none;
+	text-decoration: none;
+}
+.book-nav li a.active{
+  border-bottom: 1px solid #fff;
+}
 
 
 
